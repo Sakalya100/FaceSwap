@@ -1,6 +1,9 @@
 # FaceSwap
 An OpenCV Based application that allows you to swap faces between 2 images with OpenCV and dlib.
 
+# Try it out!
+
+You can try out the Application [Here](https://huggingface.co/spaces/Sakalya122/FaceSwap)
 
 ## Get Started
 ```sh
