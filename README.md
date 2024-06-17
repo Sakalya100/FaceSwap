@@ -1,14 +1,3 @@
----
-title: FaceSwap
-emoji: 🚀
-colorFrom: blue
-colorTo: purple
-sdk: streamlit
-sdk_version: 1.35.0
-app_file: app.py
-pinned: false
----
-
 # FaceSwap
 An OpenCV Based application that allows you to swap faces between 2 images with OpenCV and dlib.
 
