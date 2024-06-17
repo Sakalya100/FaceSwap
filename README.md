@@ -1,5 +1,5 @@
 ---
-title: AutoTabML
+title: FaceSwap
 emoji: 🚀
 colorFrom: blue
 colorTo: purple
